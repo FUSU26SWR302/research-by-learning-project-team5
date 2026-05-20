@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eQ0omQZ7)
-# 🌾 Hệ Thống Kết Nối & Hỗ Trợ Nông Dân Bán Hàng Nông Sản
+#  Hệ Thống Kết Nối & Hỗ Trợ Nông Dân Bán Hàng Nông Sản
 
 > Nền tảng số kết nối trực tiếp nông dân với người tiêu dùng — minh bạch, hiệu quả, bền vững.
 
@@ -193,17 +193,7 @@ Hệ thống được thiết kế theo mô hình **3-tier Architecture** kết 
 | **Admin Service** | Duyệt nội dung, báo cáo, thống kê hệ thống |
 | **Search Service** | Elasticsearch full-text search, filter, ranking |
 
-#### Mô Hình Dữ Liệu Cốt Lõi (ERD — Sơ Bộ)
 
-```
-User ──< Farm ──< Product ──< OrderItem >── Order >── User
-                    │                           │
-               Category                    Delivery
-                                               │
-                                        ShippingUnit
-```
-
----
 
 ## 📅 Kế Hoạch Phát Triển (Tổng Quan)
 
