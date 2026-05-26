@@ -211,5 +211,6 @@ Hệ thống được thiết kế theo mô hình **3-tier Architecture** kết 
 ---
 
 https://zhi23072005.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-11
+link figma: https://www.figma.com/design/yHUUvXJh8nd1KxBvqjzUml/Untitled?node-id=0-1&p=f&t=bFCoHRiAea1tX90S-0
 
 
